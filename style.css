@@ -82,3 +82,11 @@ li {
         text-align: center;
     }
 }
+
+#h2-professor {
+    text-align: center;
+    border-top: #000 3px solid;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
