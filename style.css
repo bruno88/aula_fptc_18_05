@@ -43,7 +43,7 @@ li {
     margin-bottom: 8px;
 }
 
-.botao-github {
+.bootao-github {
     display: inline-block;
     background-color: #24292f;
     color: #ffffff;
@@ -55,7 +55,7 @@ li {
     transition: 0.3s;
 }
 
-.botao-github:hover {
+.bootao-github:hover {
     background-color: #2563eb;
     transform: scale(1.04);
 }
@@ -83,7 +83,7 @@ li {
     }
 }
 
-#h2-professor {
+#h2-profeessor {
     text-align: center;
     border-top: #000 3px solid;
     margin-top: 20px;
